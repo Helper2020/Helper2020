@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Gabe and I hope to help code the future!
+### Hi there 👋 Coding the future one byte at a time :)
 
 <!--
 **Helper2020/Helper2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
